@@ -7,7 +7,7 @@
 # Author: Lucas Talamini (lucastalamini1994@gmail.com)                                                                                                 #
 # Date: 21/09/2020                                                                                                                                     #
 #                                                                                                                                                      #
-# Description: The script installs wp-cli in a given directory.                                                                                        #
+# Description: The script installs WP-CLI.                                                                                   #
 #                                                                                                                                                      #
 #                                                                                                                                                      #
 #                                                                                                                                                      #
